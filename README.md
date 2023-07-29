@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aydiner3
-- 👀 I’m interested in Python, OpenCV , Pyqt5 and Django
+- 👀 I’m interested in React Native
 
 <!---
 Aydiner3/Aydiner3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
