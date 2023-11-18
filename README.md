@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aydiner3
-- 👀 I’m interested React and Sass . I am front end developer now. But i want to be full stack.
+- 👀 I’m interested Reactjs and Spring Boot . I am full stack developer. I have two years experince in coding. 
 
 <!---
 Aydiner3/Aydiner3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
