@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aydiner3
-- 👀 I’m interested Reactjs and Spring Boot . I am full stack developer. I have two years experince in coding. 
+- 👀 I’m interested Reactjs , React Native and NodeJS . I am full stack developer. I have 4 years experince in coding. 
 
 <!---
 Aydiner3/Aydiner3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
